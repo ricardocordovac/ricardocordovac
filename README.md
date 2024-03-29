@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Ricardo Cordova</h1>
 <h3 align="center">I am a passionate and creator of technology solutions for companies in the banking and pharmaceutical sectors using technologies such as articial Intelligence, ml. Latest tools used IA Make, Power PlatForm, Angular 17/18</h3>
 
-<img align="center" src="https://voltiosys.com/images/happyrichi.JPG" ancho="400">
+<p align="center">
+<img  src="https://voltiosys.com/images/happyrichi.JPG" ancho="400">
+</p>
 
 - 💬 Ask me about **(AI) and Marchine Leanrning(ML), Deep Learning(DL), Make**
 
